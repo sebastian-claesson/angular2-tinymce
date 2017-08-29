@@ -105,4 +105,5 @@ export interface TinymceOptions {
     nowrap?: boolean;
     object_resizing?: boolean | string;
     type_ahead_urls?: boolean;
+    branding?: boolean;
 }
